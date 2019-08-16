@@ -4,7 +4,7 @@
     <meta charset="utf-8"/>
     <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
     <meta name="viewport" content="width=device-width, initial-scale=1"/>
-    <title>Alan</title>
+    <title>天空之城</title>
     <link href="//cdn.bootcss.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
     <link href="/css/landing-page.min.css" rel="stylesheet" id="theme-css"/>
     <link href="/css/jcala-md.min.css" rel="stylesheet"/>
@@ -47,9 +47,6 @@
                 </li>
                 <li>
                     <a href="/about">About</a>
-                </li>
-                <li>
-                    <a href="/admin/">Admin</a>
                 </li>
                 <li>
                     <a href='javascript:void(0)' onclick="day_night()"><i class="fa fa-moon-o" id="day-night"></i>
