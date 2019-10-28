@@ -1,3 +1,6 @@
+
+来源于开源项目：https://github.com/flyleft/jcalaBlog
+
 [github地址](https://github.com/jcalaz/jcalaBlog)
 ## jcalaBlog个人博客网站
 #### 所用技术:
